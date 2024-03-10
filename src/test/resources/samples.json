@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Native View",
+    "description": "Chained View"
+  },
+  {
+    "name": "Slider",
+    "description": "Slide your number"
+  },
+  {
+    "name": "Vertical swiping",
+    "description": "Demos vertical swiping"
+  },
+  {
+    "name": "Drag & Drop",
+    "description": "Demo drag and drop"
+  },
+  {
+    "name": "Double Tap",
+    "description": "Demo double tap button"
+  },
+  {
+    "name": "Long Press",
+    "description": "Demo Long press button"
+  },
+  {
+    "name": "Photo View",
+    "description": "Ping & Zoom"
+  },
+  {
+    "name": "Web View",
+    "description": "View hacker news"
+  },
+  {
+    "name": "Carousel",
+    "description": "Demos swipe left & right"
+  },
+  {
+    "name": "Wheel Picker",
+    "description": "Demos wheel picker color"
+  }
+]
